@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#!/bin/bash
 
 sudo apt install qt5-default libprocps-dev -y
 
